@@ -5,9 +5,9 @@
 I made project on finance, sales, marketing, supply chain, executive department of atliq hardware. Atliq is hardware company. it mainly focus on providing customer services.
 It control production cost to maintain profit and price. It also takes environmental responsibility. Company makes some adoptable changes in technology market dynamics and customers preferances to maintain long term sucess.
 
-Here is my live dashboard: click here
+Here is my live dashboard: [click here](https://app.powerbi.com/view?r=eyJrIjoiMDMzMzI5NWEtMzBhMS00YjhlLWJjODctMDQ5ZjUwMjBlMmFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Here is my Video Presentation: click here
+Here is my Video Presentation: [click here](https://youtu.be/Ausznhk549w)
 
 ##OBJECTIVE:
 
@@ -77,6 +77,7 @@ https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/4fd7ee
 
 
 
+https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/641ce239-bc36-4962-bef7-340c67e3cbde
 
 
 
@@ -87,6 +88,18 @@ https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/4fd7ee
 -Providing insights to support product development, marketing campaigns, and market positioning.
 
 -In region, market performance matrix, North America region has highest gross margin % it is 44.97% also in latam region is low.
+
+
+
+
+
+
+
+
+https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/05a4434a-1395-4e9b-949b-297664912f98
+
+
+
 
 
 
@@ -105,6 +118,9 @@ https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/4fd7ee
 
 
 
+https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/16d42bbf-1dfe-4c74-abf8-dca0d9c54b48
+
+
 
 
 ## EXECUTIVE VIEW:
@@ -112,6 +128,23 @@ https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/4fd7ee
 -Providing executive dashboards and reports with key performance indicators (KPIs) across all business functions.
 
 -Offering strategic insights and recommendations to support decision-making at the executive level.
+
+
+
+
+
+https://github.com/samruddhidesh23/Business-Insights-360/assets/167994320/fd0301bb-584c-46d3-9675-4323fa9abd4e
+
+
+## CONCLUSION:
+
+-Using this info we take proper decision in coming years,which region, country gives profit and which gives loss also we find that which product is more profitable.
+
+-Using this, we know where to improve our product demand and supply also we can know which product is in out of stock and which is more in stock.
+
+-The successful implementation of the Business Insights Initiative is crucial for Atliq Hardware Company to navigate the complexities of the modern business landscape and maintain its competitive advantage.
+
+
 
 
 
