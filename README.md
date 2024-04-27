@@ -1,15 +1,20 @@
 # Business-Insights-360
 
 INTRODUCTION:
+             
              I made project on finance, sales, marketing, supply chain, executive department of atliq hardware. Atliq is hardware company. it mainly focus on providing customer services.
 It control production cost to maintain profit and price. It also takes environmental responsibility. Company makes some adoptable changes in technology market dynamics and customers preferances to maintain long term sucess.
+
 Here is my live dashboard: click here
+
 Here is my Video Presentation: click here
 
 OBJECTIVE:
+
 The Business Insights project at Atliq Hardware Company aims to provide comprehensive analysis and actionable insights across key business functions, including finance, sales, market trends, supply chain, and executive decision-making. By leveraging data-driven approaches and advanced analytics, the project seeks to enhance operational efficiency, optimize resource allocation, and drive strategic decision-making processes.
 
 PROBLEM STATEMENT:
+
 Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
 
 TOOLS WHICH I USE IN THIS PROJECT:
@@ -43,7 +48,17 @@ In my report I made some views like
 4. SUPPLY CHAIN
 5. EXECUTIVE
 
-1. FINANCE
+
+1. FINANCE VIEW:
+   
+ -From profit and loss statement we calculate net sales, gross margin, net profit of current year. also we compare this quantities to last year.
+ 
+ -In below dashboard we see some kpi indicators which shows net sales=$3.74 billion and gross margin %=38.08% are in green color means they are profitable but net profit%=-13.98% are in 
+  red color means we have to more focus on how to improve our net profit.
+
+ -Assessing financial performance metrics such as revenue, profitability, and cost structures.
+
+ -
 
 
 
