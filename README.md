@@ -38,7 +38,7 @@ Sales management has gained importance to meet increasing competition and the ne
 9. data mapping
 10. some advanced charts in power bi
 11. ETL
-12. ans so on.......
+12. and so on.......
 
 ##REPORT:
 
